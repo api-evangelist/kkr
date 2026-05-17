@@ -37,7 +37,7 @@ common:
     url: https://www.kkr.com/contact
   - type: Terms of Use
     url: https://www.kkr.com/terms-of-use
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.kkr.com/privacy-policy
   - type: LinkedIn
     url: https://www.linkedin.com/company/kkr
