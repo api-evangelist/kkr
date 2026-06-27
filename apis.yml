@@ -35,7 +35,7 @@ common:
     url: https://www.kkr.com/careers
   - type: Contact
     url: https://www.kkr.com/contact
-  - type: Terms of Use
+  - type: TermsOfService
     url: https://www.kkr.com/terms-of-use
   - type: PrivacyPolicy
     url: https://www.kkr.com/privacy-policy
