@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/kkr-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/kkr-domain-security.yml
   - type: Website
     url: https://www.kkr.com
   - type: About
@@ -41,6 +45,8 @@ common:
     url: https://www.kkr.com/privacy-policy
   - type: LinkedIn
     url: https://www.linkedin.com/company/kkr
+  - url: https://www.kkr.com/insights
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
