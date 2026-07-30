@@ -8,7 +8,18 @@ description: >-
   publish a public developer portal or open API program; this repository tracks the
   company in the API Evangelist Network for context, common properties, and future
   developer resource discovery.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kkr.png
 type: Index
 tags:
   - Fortune 500
