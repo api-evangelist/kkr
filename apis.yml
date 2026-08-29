@@ -8,6 +8,17 @@ description: >-
   publish a public developer portal or open API program; this repository tracks the
   company in the API Evangelist Network for context, common properties, and future
   developer resource discovery.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
