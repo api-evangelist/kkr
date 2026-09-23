@@ -1,7 +1,9 @@
 ---
 title: Coder Secures $90M Series C Led by KKR to Advance ...
 url: https://coder.com/blog/90m-series-c-led-by-kkr-to-advance-secure-enterprise-ai-development
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KKR" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: KKR Invests in Fresha, the Leading AI-Powered Platform ...
 url: https://lasvegassun.com/news/2026/may/21/kkr-invests-in-fresha-the-leading-ai-powered-platf/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KKR" press release artificial intelligence'
 position: 4
 source: serpapi-google

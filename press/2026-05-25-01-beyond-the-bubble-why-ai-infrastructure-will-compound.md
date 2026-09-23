@@ -1,7 +1,9 @@
 ---
 title: 'Beyond the Bubble: Why AI Infrastructure Will Compound ...'
 url: https://www.kkr.com/insights/ai-infrastructure
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KKR" press release artificial intelligence'
 position: 1
 source: serpapi-google
